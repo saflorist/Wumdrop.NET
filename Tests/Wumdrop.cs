@@ -16,7 +16,7 @@ namespace Tests
     [TestFixture]
     public class WumdropTests
     {
-        public const string WumdropApiKey = "7fb910add835b928c8078d9966277ef87b674ed9c35f9adc23a4206f";
+        public const string WumdropApiKey = "you_API_key_here";
 
         #region Functions
       
