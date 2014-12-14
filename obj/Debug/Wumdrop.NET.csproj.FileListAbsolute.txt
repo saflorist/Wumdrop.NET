@@ -1,0 +1,7 @@
+D:\Webs\Source\Wumdrop.Net\bin\Debug\Wumdrop.NET.dll
+D:\Webs\Source\Wumdrop.Net\bin\Debug\Wumdrop.NET.pdb
+D:\Webs\Source\Wumdrop.Net\bin\Debug\nunit.framework.dll
+D:\Webs\Source\Wumdrop.Net\bin\Debug\nunit.framework.xml
+D:\Webs\Source\Wumdrop.Net\obj\Debug\Wumdrop.NET.csprojResolveAssemblyReference.cache
+D:\Webs\Source\Wumdrop.Net\obj\Debug\Wumdrop.NET.dll
+D:\Webs\Source\Wumdrop.Net\obj\Debug\Wumdrop.NET.pdb
